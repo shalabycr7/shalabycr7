@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shalabycr7
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning web developing and c++
-- 📫 How to reach me 
-my facebook : https://www.facebook.com/abdelrahman.shalaby.319
+- 👋 Hi, I’m Abd Elrahman Shalaby **A Junior Front-End Devloper**
+- 👀 I’m Interested In Coding, Gaming And Technology In General
+- 🌱 I’m Currently Learning Web Developing And C++ Programming
+- 📫 You Can Reach Me At [My LinkedIn](www.linkedin.com/in/abd-elrahman-shalaby)
+***
