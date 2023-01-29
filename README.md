@@ -24,7 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalabycr7&show_icons=true&locale=en" alt="shalabycr7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalabycr7&" alt="shalabycr7" /></p>
-
-<img src="https://raw.githubusercontent.com/shalabycr7/shalabycr7/blob/output/snake.svg" alt="Snake animation" />
-
-###
